@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisayudha08
 - 👀 I’m interested in data science
-- Currently, i'm learning python and how to use it for data analysist purposes
+- Currently, i'm learning python on Purwadhika Digital School and how to use it for data analysist purposes
 - I have no IT-background, but im striving to learn so i can make this my line of work
 
 <!---
