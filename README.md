@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @chrisayudha08
-- 👀 I’m interested in data science
-- Currently, i'm learning python on Purwadhika Digital School and how to use it for data analysist purposes
-- I have no IT-background, but im striving to learn so i can make this my line of work
+- Excited on data!
+- A student of Purwadhika Digital School on Data Science & Machine Learning
+- Striving to devour new knowledge
 
 <!---
 chrisayudha08/chrisayudha08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
