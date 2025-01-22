@@ -1,5 +1,6 @@
 - Excited on data!
-- A student of Purwadhika Digital School on Data Science & Machine Learning
+- Data Science & Machine Learning on Purwadhika Digital School
+- Applied Data Science on WorldQuant university
 - Striving to devour new knowledge
 
 Find me on:
